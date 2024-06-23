@@ -20,7 +20,7 @@ pip install pandas
 2. Run the script:
 
 ```bash
-python script_name.py
+Convert HOST to HSG.py
 ```
 
 
